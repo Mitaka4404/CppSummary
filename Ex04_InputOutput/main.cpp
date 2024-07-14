@@ -22,19 +22,21 @@ int main()
 	// 빈칸과 상관없이 전체를 다 입력을 받고싶다면, 아래왜 같이 cin.getline을 쓴다.
 	// cin.getline(받아올 변수, 받아올 크기)
 	
-	/*cin.getline(user_input, sizeof(user_input));
-
-	cout << "메아리: " << user_input << endl;*/
-
-	int number = -1;
-
-	//cin >> user_input;
 	cin.getline(user_input, sizeof(user_input));
 
+	cout << "메아리: " << user_input << endl;
+	
+	int number = -1;
+	int number2 = -1;
+
+	cin >> user_input;
+	//cin.getline(user_input, sizeof(user_input));
+
 	// 최대 100글자까지 입력 받아서 무시하겠다. 또는 '\n'이 있으면 그때부터 무시하겠다.
-	//cin.ignore(100, '\n');
+	cin.ignore(100, '\n');
 
 	cin >> number;
+	cin >> number2;
 	cout << user_input << " " << number << endl;
 
 	// 참고 : cin.ignore(numeric_limits<streamsize>::max(), '\n')
