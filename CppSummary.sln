@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex06_Iteration", "Ex06_Iter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex07_NumberGuess", "Ex07_NumberGuess\Ex07_NumberGuess.vcxproj", "{B831AC1B-81C2-4A7A-A8C1-0E79DCEFE579}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex08_Pointer", "Ex08_Pointer\Ex08_Pointer.vcxproj", "{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,18 @@ Global
 		{B831AC1B-81C2-4A7A-A8C1-0E79DCEFE579}.Release|x64.Build.0 = Release|x64
 		{B831AC1B-81C2-4A7A-A8C1-0E79DCEFE579}.Release|x86.ActiveCfg = Release|Win32
 		{B831AC1B-81C2-4A7A-A8C1-0E79DCEFE579}.Release|x86.Build.0 = Release|Win32
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|Any CPU.Build.0 = Debug|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|x64.ActiveCfg = Debug|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|x64.Build.0 = Debug|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Debug|x86.Build.0 = Debug|Win32
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|Any CPU.ActiveCfg = Release|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|Any CPU.Build.0 = Release|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|x64.ActiveCfg = Release|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|x64.Build.0 = Release|x64
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|x86.ActiveCfg = Release|Win32
+		{9FFD9C33-9C9A-4A30-938B-F3EF54CA2BC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
