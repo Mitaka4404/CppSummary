@@ -1,0 +1,19 @@
+#ifndef MY_CLASS_H
+#define MY_CLASS_H
+
+class MyClass
+{
+public:
+	MyClass(); // ¸É¹ö ÇÔ¼öÀÇ ¸öÃ¼(body) ¸ðµÎ »èÁ¦, ±ò²û
+	MyClass(int number);
+	~MyClass();
+
+	void Increment(int a);
+
+	void Print();
+	
+private:
+	int number_ = 0; // ÃÊ±â°ª
+};
+#endif // !MY_CLASS_H
+
