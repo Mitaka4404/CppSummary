@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex15_Header", "Ex15_Header\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex16_FileIO", "Ex16_FileIO\Ex16_FileIO.vcxproj", "{5E3DF9DF-80E2-4CA0-9C28-AE4CEEC94383}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex17_PhoneBook", "Ex17_PhoneBook\Ex17_PhoneBook.vcxproj", "{3CE81D32-D218-4A79-BDA0-289387386275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,18 @@ Global
 		{5E3DF9DF-80E2-4CA0-9C28-AE4CEEC94383}.Release|x64.Build.0 = Release|x64
 		{5E3DF9DF-80E2-4CA0-9C28-AE4CEEC94383}.Release|x86.ActiveCfg = Release|Win32
 		{5E3DF9DF-80E2-4CA0-9C28-AE4CEEC94383}.Release|x86.Build.0 = Release|Win32
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|Any CPU.Build.0 = Debug|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|x64.ActiveCfg = Debug|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|x64.Build.0 = Debug|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Debug|x86.Build.0 = Debug|Win32
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|Any CPU.ActiveCfg = Release|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|Any CPU.Build.0 = Release|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|x64.ActiveCfg = Release|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|x64.Build.0 = Release|x64
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|x86.ActiveCfg = Release|Win32
+		{3CE81D32-D218-4A79-BDA0-289387386275}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
